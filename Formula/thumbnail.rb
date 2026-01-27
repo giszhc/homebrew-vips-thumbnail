@@ -1,8 +1,8 @@
 class Thumbnail < Formula
   desc "Batch generate image thumbnails using libvips"
   homepage "https://github.com/giszhc/vips-thumbnail"
-  url "https://github.com/giszhc/vips-thumbnail/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "ccb7dfab56c13dda17448acbc3997d31a11fd04f74725b61f996c789741f7e78"
+  url "https://github.com/giszhc/vips-thumbnail/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "60d3098c0e47819e649152b32d994f2709eaedb170ec54f5970e238bbd98782a"
   license "MIT"
 
   depends_on "vips"
