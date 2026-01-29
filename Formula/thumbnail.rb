@@ -6,6 +6,7 @@ class Thumbnail < Formula
   license "MIT"
 
   depends_on "vips"
+  depends_on "vips"
 
   def install
     bin.install "dist/thumbnail"
